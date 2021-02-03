@@ -1,16 +1,8 @@
 # grocery_app
 
-A new Flutter project.
+## Screen Shots
+# Product List Item
+![Screenshot_20210203-120505](https://user-images.githubusercontent.com/33056647/106705555-61251300-6618-11eb-9125-b29b1c39a7e3.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Product Detail's
+![Screenshot_20210203-120511](https://user-images.githubusercontent.com/33056647/106705561-62eed680-6618-11eb-9118-669e9d05fdcb.jpg)
